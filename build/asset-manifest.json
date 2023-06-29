@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/mausam-app/static/css/main.4df9ed2f.css",
+    "main.js": "/mausam-app/static/js/main.f8459841.js",
+    "static/js/787.3750766a.chunk.js": "/mausam-app/static/js/787.3750766a.chunk.js",
+    "static/media/bg.png": "/mausam-app/static/media/bg.d18e8af5bac65a98cd80.png",
+    "index.html": "/mausam-app/index.html",
+    "main.4df9ed2f.css.map": "/mausam-app/static/css/main.4df9ed2f.css.map",
+    "main.f8459841.js.map": "/mausam-app/static/js/main.f8459841.js.map",
+    "787.3750766a.chunk.js.map": "/mausam-app/static/js/787.3750766a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4df9ed2f.css",
+    "static/js/main.f8459841.js"
+  ]
+}
